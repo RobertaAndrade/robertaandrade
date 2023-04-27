@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**robbieofc/robbieofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Robbie 🖖 
 
-Here are some ideas to get you started:
+  🌱 Currently learning Programming and French <br>
+  🚀 I'm looking to collaborate on projects soon <br>
+  💬 I'm looking for help with Illustrations <br>
+  💡 Ask me about anything, if I know I'll help <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+    <a href="https://github.com/robbiebr">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Robbieofc&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars" style="visibility:visible;max-width:100%;">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbieofc&layout=compact&langs_count=16&theme=tokyonight"/>  
+  </div><br>
+
+  <div>
+    <a href="https://www.linkedin.com/in/robertaandradebr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/robbie.arts.ofc/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </div>
+  
+</div>
+
